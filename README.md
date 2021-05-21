@@ -2,11 +2,10 @@
 <img src="https://komarev.com/ghpvc/?username=jiyeoon&&style=flat-square" align="right" />
 </div>
 
+
 ### Talk is cheap. Show me the code.
 
-<a href="https://github.com/snutiise" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
+
 <a href="https://www.linkedin.com/in/승훈-전-5381321b0" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
@@ -15,7 +14,8 @@
 </a>
 <a href="https://instagram.com/jeon_seung_hoon" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=dd2a7b alt=instagram style="margin-bottom: 5px;" />
-</a> 
+</a>
+
 
 <!--
 **snutiise/snutiise** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -31,5 +31,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=snutiise&count_private=true&include_all_commits=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
